@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jtelebot-core:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mytelebot.war">
+      <element id="artifact" artifact-name="jtelebot-core:war exploded" />
+    </root>
+  </artifact>
+</component>
